@@ -1,0 +1,17 @@
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\bin\Debug\MachineSlot.exe.config
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\bin\Debug\MachineSlot.exe
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\bin\Debug\MachineSlot.pdb
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\obj\Debug\MachineSlot.csproj.AssemblyReference.cache
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\obj\Debug\MachineSlot.Form1.resources
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\obj\Debug\MachineSlot.Properties.Resources.resources
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\obj\Debug\MachineSlot.csproj.GenerateResource.cache
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\obj\Debug\MachineSlot.csproj.CoreCompileInputs.cache
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\obj\Debug\MachineSlot.exe
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\obj\Debug\MachineSlot.pdb
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\bin\Debug\OpenTK.dll
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\bin\Debug\OpenTK.GLControl.dll
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\bin\Debug\OpenTK.pdb
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\bin\Debug\OpenTK.xml
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\bin\Debug\OpenTK.GLControl.xml
+C:\Users\catal\OneDrive\Documents\GitHub\GrigorievC_tema09\MachineSlot\obj\Debug\MachineS.50277416.Up2Date
